@@ -1,0 +1,21 @@
+{
+  "name": "niterbox-theme",
+  "homepage": "https://github.com/Niterbox/niterbox-theme",
+  "authors": [
+    "Niterbox <silva.johnny10@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
