@@ -1,0 +1,22 @@
+{
+  "name": "niterbox-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niterbox/niterbox-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niterbox/niterbox-theme/issues"
+  },
+  "homepage": "https://github.com/Niterbox/niterbox-theme#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
